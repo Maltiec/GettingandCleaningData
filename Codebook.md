@@ -54,84 +54,163 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 During work resulting variable names were changed to adapt for use as Col names in R:
+
 1 tBodyAccMeanX
+
 2 tBodyAccMeanY
+
 3 tBodyAccMeanZ
+
 4 tBodyAccStdX
+
 5 tBodyAccStdY
+
 6 tBodyAccStdZ
+
 41 tGravityAccMeanX
+
 42 tGravityAccMeanY
+
 43 tGravityAccMeanZ
+
 44 tGravityAccStdX
+
 45 tGravityAccStdY
+
 46 tGravityAccStdZ
+
 81 tBodyAccJerkMeanX
+
 82 tBodyAccJerkMeanY
+
 83 tBodyAccJerkMeanZ
+
 84 tBodyAccJerkStdX
+
 85 tBodyAccJerkStdY
+
 86 tBodyAccJerkStdZ
+
 121 tBodyGyroMeanX
+
 122 tBodyGyroMeanY
+
 123 tBodyGyroMeanZ
+
 124 tBodyGyroStdX
+
 125 tBodyGyroStdY
+
 126 tBodyGyroStdZ
+
 161 tBodyGyroJerkMeanX
+
 162 tBodyGyroJerkMeanY
+
 163 tBodyGyroJerkMeanZ
+
 164 tBodyGyroJerkStdX
+
 165 tBodyGyroJerkStdY
+
 166 tBodyGyroJerkStdZ
+
 201 tBodyAccMagMean
+
 202 tBodyAccMagStd
+
 214 tGravityAccMagMean
+
 215 tGravityAccMagStd
+
 227 tBodyAccJerkMagMean
+
 228 tBodyAccJerkMagStd
+
 240 tBodyGyroMagMean
+
 241 tBodyGyroMagStd
+
 253 tBodyGyroJerkMagMean
+
 254 tBodyGyroJerkMagStd
+
 266 fBodyAccMeanX
+
 267 fBodyAccMeanY
+
 268 fBodyAccMeanZ
+
 269 fBodyAccStdX
+
 270 fBodyAccStdY
+
 271 fBodyAccStdZ
+
 294 fBodyAccMeanFreqX
+
 295 fBodyAccMeanFreqY
+
 296 fBodyAccMeanFreqZ
+
 345 fBodyAccJerkMeanX
+
 346 fBodyAccJerkMeanY
+
 347 fBodyAccJerkMeanZ
+
 348 fBodyAccJerkStdX
+
 349 fBodyAccJerkStdY
+
 350 fBodyAccJerkStdZ
+
 373 fBodyAccJerkMeanFreqX
+
 374 fBodyAccJerkMeanFreqY
+
 375 fBodyAccJerkMeanFreqZ
+
 424 fBodyGyroMeanX
+
 425 fBodyGyroMeanY
+
 426 fBodyGyroMeanZ
+
 427 fBodyGyroStdX
+
 428 fBodyGyroStdY
+
 429 fBodyGyroStdZ
+
 452 fBodyGyroMeanFreqX
+
 453 fBodyGyroMeanFreqY
+
 454 fBodyGyroMeanFreqZ
+
 503 fBodyAccMagMean
+
 504 fBodyAccMagStd
+
 513 fBodyAccMagMeanFreq
+
 516 fBodyAccJerkMagMean
+
 517 fBodyAccJerkMagStd
+
 526 fBodyAccJerkMagMeanFreq
+
 529 fBodyGyroMagMean
+
 530 fBodyGyroMagStd
+
 539 fBodyGyroMagMeanFreq
+
 542 fBodyGyroJerkMagMean
+
 543 fBodyGyroJerkMagStd
+
 552 fBodyGyroJerkMagMeanFreq
 556 angletBodyAccJerkMean,gravityMean
 557 angletBodyGyroMean,gravityMean
