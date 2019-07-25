@@ -48,5 +48,3 @@ mean_std_set$Activity<-gsub("6","LAYING",mean_std_set$Activity)
 #convert resultin dataset to data.table type and make tidy dataset
 mean_std_set<-data.table(mean_std_set)
 tidy.dataset <- mean_std_set[, lapply(.SD, mean), by=list(Activity, Subject)]
-
-
