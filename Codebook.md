@@ -212,11 +212,17 @@ During work resulting variable names were changed to adapt for use as Col names 
 543 fBodyGyroJerkMagStd
 
 552 fBodyGyroJerkMagMeanFreq
+
 556 angletBodyAccJerkMean,gravityMean
+
 557 angletBodyGyroMean,gravityMean
+
 558 angletBodyGyroJerkMean,gravityMean
+
 559 angleX,gravityMean
+
 560 angleY,gravityMean
+
 561 angleZ,gravityMean
 
 
